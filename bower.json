@@ -1,6 +1,7 @@
 {
   "name": "7studio",
   "dependencies": {
-    "jquery": "1.11.2"
+    "jquery": "1.11.2",
+    "normalize-css": "normalize.css#^5.0.0"
   }
 }
